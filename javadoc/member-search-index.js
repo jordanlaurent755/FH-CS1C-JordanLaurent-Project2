@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"subsetsum","c":"SubsetSum","l":"findSubset(ArrayList<Double>, double)","url":"findSubset(java.util.ArrayList,double)"},{"p":"subsetsum","c":"SubsetSum","l":"SubsetSum()","url":"%3Cinit%3E()"}]
